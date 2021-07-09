@@ -4,17 +4,24 @@
     background-color: lightseagreen;
     width: 50%;
     align-items: center;
-    justify-content: space-around;
+    
 }
 
 .footer {
-    background-color: gray;
-    height: 50px;
+    
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+      }
+    
    
     
 }
 
 .image {
-    display: flex;
-    justify-content: flex-end;
+    position: static;
 }
