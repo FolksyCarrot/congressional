@@ -24,5 +24,13 @@
 }
 
 .image {
-    position: static;
+    width: 200px;
+    length: 400px;
+    background-color: darkcyan;
+}
+
+.img {
+    length: 500px;
+    width: 300px;
+    background-color: cadetblue;
 }
